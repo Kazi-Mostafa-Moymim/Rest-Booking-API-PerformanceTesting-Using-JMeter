@@ -61,18 +61,16 @@ The sample test plan includes the following components:
     * Running through CMD (Non GUI mode).
     * Running through CMD (GUI mode) for generating html report.
 ## Report 
-1. 2000 Concurrent Request with 01 Loop Count; Avg TPS for Total Samples is ~ 200 And Total Concurrent API requested: 12000.
-       ![2000](https://github.com/Anik16298/Restful-booking-api-performance-testing-using-jmeter/blob/52b72a36369cb57b0641ed04cac8acf230805750/Screenshot/2000.png)
-2. 2500 Concurrent Request with 01 Loop Count; Avg TPS for Total Samples is ~ 121 And Total Concurrent API requested: 15000.
-       ![2500](https://github.com/Anik16298/Restful-booking-api-performance-testing-using-jmeter/blob/52b72a36369cb57b0641ed04cac8acf230805750/Screenshot/2500.png)
-3. 2600 Concurrent Request with 01 Loop Count; Avg TPS for Total Samples is ~ 260 And Total Concurrent API requested: 15600.
-       ![2600](https://github.com/Anik16298/Restful-booking-api-performance-testing-using-jmeter/blob/52b72a36369cb57b0641ed04cac8acf230805750/Screenshot/2600.png)
-4. 2700 Concurrent Request with 01 Loop Count; Avg TPS for Total Samples is ~ 217 And Total Concurrent API requested: 16200.
-       ![2700a](https://github.com/Anik16298/Restful-booking-api-performance-testing-using-jmeter/blob/52b72a36369cb57b0641ed04cac8acf230805750/Screenshot/2700a.png)
-5. 2800 Concurrent Request with 01 Loop Count; Avg TPS for Total Samples is ~ 195 And Total Concurrent API requested: 16800.
-       ![2800](https://github.com/Anik16298/Restful-booking-api-performance-testing-using-jmeter/blob/52b72a36369cb57b0641ed04cac8acf230805750/Screenshot/2800.png)
-6. 2900 Concurrent Request with 01 Loop Count; Avg TPS for Total Samples is ~ 157 And Total Concurrent API requested: 17400.
-       ![2900](https://github.com/Anik16298/Restful-booking-api-performance-testing-using-jmeter/blob/52b72a36369cb57b0641ed04cac8acf230805750/Screenshot/2900.png)
+1. 1000 Concurrent Request with 01 Loop Count; Avg TPS for Total Samples is ~ 100 And Total Concurrent API requested: 7000.
+       ![1000](https://github.com/Kazi-Mostafa-Moymim/Rest-Booking-API-PerformanceTesting-Using-JMeter/blob/cc1a7e5dc61d7de55384005b5a3718f4f588b8e3/Screenshot/1000.png)
+2. 1500 Concurrent Request with 01 Loop Count; Avg TPS for Total Samples is ~ 150 And Total Concurrent API requested: 10500.
+       ![1500](https://github.com/Kazi-Mostafa-Moymim/Rest-Booking-API-PerformanceTesting-Using-JMeter/blob/cc1a7e5dc61d7de55384005b5a3718f4f588b8e3/Screenshot/1500.png)
+3. 2000 Concurrent Request with 01 Loop Count; Avg TPS for Total Samples is ~ 200 And Total Concurrent API requested: 14000.
+       ![2000](https://github.com/Kazi-Mostafa-Moymim/Rest-Booking-API-PerformanceTesting-Using-JMeter/blob/cc1a7e5dc61d7de55384005b5a3718f4f588b8e3/Screenshot/500.png)
+4. 2500 Concurrent Request with 01 Loop Count; Avg TPS for Total Samples is ~ 250 And Total Concurrent API requested: 17500.
+       ![2500](https://github.com/Kazi-Mostafa-Moymim/Rest-Booking-API-PerformanceTesting-Using-JMeter/blob/cc1a7e5dc61d7de55384005b5a3718f4f588b8e3/Screenshot/2500.png)
+5. 2900 Concurrent Request with 01 Loop Count; Avg TPS for Total Samples is ~ 157 And Total Concurrent API requested: 20300.
+       ![2900](https://github.com/Kazi-Mostafa-Moymim/Rest-Booking-API-PerformanceTesting-Using-JMeter/blob/cc1a7e5dc61d7de55384005b5a3718f4f588b8e3/Screenshot/2900.png)
 ### While executed 2900 concurrent request, found  3160 request got connection timeout and error rate is 18.16%. 
 ### Summary: Server can handle almost concurrent 16800 API call with  zero (0) error rate.
 
